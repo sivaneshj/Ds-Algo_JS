@@ -20,4 +20,6 @@ function Binarysearch(arr,num){
 
 }
 
-console.log(Binarysearch([1,2,3,4,5],0));
+console.log(Binarysearch([-5,2,4,6,10],10));
+console.log(Binarysearch([-5,2,4,6,10],6));
+console.log(Binarysearch([-5,2,4,6,10],20));
