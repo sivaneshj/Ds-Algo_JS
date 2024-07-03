@@ -6,4 +6,4 @@ function fibnacci(n){
     }
     return fib;
 }
-console.log(fibnacci(8));
+console.log(fibnacci(2));

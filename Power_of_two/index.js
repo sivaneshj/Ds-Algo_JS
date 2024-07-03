@@ -5,4 +5,4 @@ function ispoweroftwo(n){
     return (n & (n-1))=== 0;
 }
 
-console.log(ispoweroftwo(8));
+console.log(3 &2);
